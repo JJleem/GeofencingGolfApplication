@@ -1,0 +1,46 @@
+{
+  "reservationInformation": {
+    "requestId": "A",
+    "isCheck": true,
+    "locker_info": 1,
+    "reservationNum": 1,
+    "date": "2024-10-20 00:00:00",
+    "course_info": [
+      "IN COURSE 18 HOLE",
+      "IN COURSE 24 HOLE",
+      "IN COURSE 12 HOLE"
+    ],
+
+    "tee_info": [
+      "2024-10-20 00:08:00",
+      "2024-10-20 00:10:00",
+      "2024-10-20 00:12:00",
+      "2024-10-20 00:14:00",
+      "2024-10-20 00:16:00",
+      "2024-10-20 00:18:00",
+      "2024-10-20 00:20:00",
+      "2024-10-20 00:22:00",
+      "2024-10-20 00:24:00",
+      "2024-10-20 00:02:00"
+    ]
+  },
+  "userInformation": {
+    "userNum": 1,
+    "id": "humanf",
+    "pwd": "1234a",
+    "name": "김철수",
+    "birthdate": "1997-04-17 00:00:00",
+    "phone": "010-1234-1234",
+    "gender": "men"
+  },
+  "userReservation": {
+    "requestId": "Guro",
+    "reservationNum": 1,
+    "date": "2024-10-20 00:00:00",
+    "course_info": "IN COURSE 18 HOLE",
+    "tee_info": "2024-10-20 00:08:00",
+    "memberNum": 3,
+    "isCheck": false,
+    "locker_info": 1
+  }
+}
